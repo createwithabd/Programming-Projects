@@ -12,7 +12,7 @@ In this project you are going to learn following things:
 
 ##### Formula: 
 
-![](/assets\BMI Formula.PNG)
+![](\assets\BMI Formula.PNG)
 
 
 
