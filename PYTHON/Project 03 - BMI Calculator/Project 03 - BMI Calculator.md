@@ -12,7 +12,7 @@ In this project you are going to learn following things:
 
 ##### Formula: 
 
-![](https://github.com/createwithabd/Programming-Projects/tree/master/PYTHON/Project%2003%20-%20BMI%20Calculator/assets\BMI Formula.PNG)
+![](/assets\BMI Formula.PNG)
 
 
 
